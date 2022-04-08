@@ -1,0 +1,9 @@
+1.Bagian profile kurang change password
+2.bagian blog di news (1 file untuk semua bagian)
+3.API untuk recent posts
+4.Bug dibagian tambah_user,jika tidak memenuhi requiment img hilang
+5.Api di bagian blog (salah satu/Jumlah)
+6.Chart diagram dibagian recent post
+https://www.linkedin.com/pulse/create-strong-password-validation-regex-javascript-mitanshu-kumar
+https://newsapi.org/docs/get-started
+7.Scan catatan perjalanan
